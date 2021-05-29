@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sindhuja S</h1>
+<h1 align="center">Hi 👋, I'm Sindhuja S</h1><br>
+<h2 align= "center>A girl who explore awaits with dreams to become reality</h2>
 <h3 align="center">A ECE Sophomore currently learning new technologies to achieve my goal as a Full Stack Developer. Constant learner and engaging myself towards my dream.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript,Figma, Adobe Photoshop, Adobe Xd, Adobe Illustrator**
