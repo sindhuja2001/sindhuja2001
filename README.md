@@ -7,7 +7,7 @@
 
 <h3 align="center">A ECE Sophomore currently learning new technologies to achieve my goal as a Full Stack Developer. Constant learner and engaging myself towards my dream.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript,Figma, Adobe Photoshop, Adobe Xd, Adobe Illustrator**
+- 🌱 I’m currently learning **Front end and Backend development, Figma, Adobe Photoshop, Adobe Xd, Adobe Illustrator**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Sindhuja-Sivakumar-2](https://www.quora.com/profile/Sindhuja-Sivakumar-2)
 
