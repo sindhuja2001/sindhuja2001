@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Sindhuja S</h1><br>
 
-<h3 align="center">An ECE Final year student currently learning new technologies to achieve my goal as a Full Stack Developer. Constant learner and engaging myself towards my dream.</h3>
+<h3 align="center">An ECE Graduate learning new technologies to achieve my goal as a Full Stack Developer. Constant learner and engaging myself towards my dream.</h3>
 
 - 🌱 I’m currently learning **Front end and Backend development, Figma, Adobe Photoshop, Adobe Xd, Adobe Illustrator**
 
